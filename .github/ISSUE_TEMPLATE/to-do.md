@@ -1,14 +1,13 @@
 ---
-name: User Story (Orga)
-type: "User Story (Orga)"
+name: To Do
 about: Vorlage fuer User Stories im Orga-Repo (US:)
-title: "US: "
-labels: [ ]
+title: "ToDo: "
+labels: [to-do]
 ---
 
 ### Beschreibung
 
-Als <Rolle> möchte ich <Ziel>, um <Nutzen>. 2-3 Sätze, worum es geht.
+2-3 Sätze, worum es geht.
 
 ### Akzeptanzkriterien
 
