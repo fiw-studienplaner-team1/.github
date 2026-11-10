@@ -1,6 +1,6 @@
 ---
 name: To Do
-about: Vorlage fuer User Stories im Orga-Repo (US:)
+about: Vorlage fuer Aufgaben im Orga-Repo (US:)
 title: "ToDo: "
 labels: [to-do]
 ---
