@@ -23,9 +23,6 @@ Gehört zu: #NUMMER
 
 <!-- Wie wird gezeigt, dass die Kriterien erfüllt sind? Z. B. Aufruf im Browser oder Postman mit Screenshot, Test-PR, Link auf eine Wiki-Seite. -->
 
-### Ergebnis-Link
-
-<!-- Link zum Ergebnis (z. B. Pull Request, Wiki-Seite, Figma-Prototyp) oder als Artefakt anhängen. -->
 
 ### Technische Hinweise (optional, nur bei Code)
 
