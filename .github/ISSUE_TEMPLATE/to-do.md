@@ -2,7 +2,7 @@
 name: To Do
 about: Vorlage fuer Aufgaben im Orga-Repo (US:)
 title: "ToDo: "
-labels: [to-do]
+labels: [ToDo]
 ---
 
 ### Beschreibung
