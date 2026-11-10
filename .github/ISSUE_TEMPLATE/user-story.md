@@ -1,7 +1,7 @@
 ---
-name: User Story (Orga)
-type: "User Story (Orga)"
-about: Vorlage fuer User Stories im Orga-Repo (US:)
+name: User Story
+type: User Story
+about: Vorlage fuer User Stories (US:)
 title: "US: "
 labels: [ ]
 ---
